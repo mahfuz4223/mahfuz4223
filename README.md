@@ -9,9 +9,16 @@
 
 - 🔭 I’m currently working on [Muslim Days](https://github.com/mahfuz4223/MuslimsDay)
 
+- 👯 I’m looking to collaborate on [Obboy/Local-E-Commerce](https://github.com/obboy/local-e-commerce)
+
+- 📫 How to reach me **mahfuz4223@gmail.com**
+
+- ⚡ Fun fact **Game is Not a Crime**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/ldarkgamer2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ldarkgamer2" height="30" width="40" /></a>
+<a href="https://instagram.com/mahfuz3325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahfuz3325" height="30" width="40" /></a>
 <a href="https://discord.gg/541866567948828683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="541866567948828683" height="30" width="40" /></a>
 </p>
 
