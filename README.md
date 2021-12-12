@@ -16,6 +16,7 @@
 <p align="left">
 <a href="https://fb.com/ldarkgamer2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ldarkgamer2" height="30" width="40" /></a>
 <a href="https://instagram.com/mahfuz3325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahfuz3325" height="30" width="40" /></a>
+  <a href="https://g.dev/mahfuz4223" target="blank"><img align="center" src="https://www.gstatic.com/devrel-devsite/prod/v583c167abdd1a21bfbd770256d119796fdffc0b7177f088bca68fc6b48429661/developers/images/touchicon-180.png" alt="mahfuz4223" height="30" width="40" /></a>
 <a href="https://discord.gg/541866567948828683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="541866567948828683" height="30" width="40" /></a>
 </p>
 
