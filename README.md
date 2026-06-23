@@ -61,40 +61,8 @@ For me, programming is more than writing code—it's about solving problems, cre
 
 # 🛠 Tech Stack
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vue" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=php,nodejs,python,express" />
-</p>
-
-### Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,kotlin,java,dart" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,supabase" />
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,digitalocean,docker,linux,nginx,cloudflare" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,androidstudio,arduino" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vue,php,nodejs,python,express,flutter,kotlin,dart,mysql,postgres,mongodb,firebase,aws,docker,linux,nginx,git,github,postman,vscode,figma" alt="Tech Stack" />
 </p>
 
 ---
