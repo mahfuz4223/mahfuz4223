@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Traveler;Android+%26+Web+Developer;SaaS+Enthusiast;Open+Source+Explorer;Turning+Ideas+Into+Products" />
 
-### Building useful software and turning ideas into products.
+### Builder • Android & Web Developer • Open Source Enthusiast
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=mahfuz4223&label=Profile+Views&color=0891b2&style=for-the-badge" />
@@ -111,6 +111,11 @@ For me, programming is more than writing code—it's about solving problems, cre
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuz4223&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+
+
 ---
 
 # 🌐 Connect With Me
@@ -118,15 +123,15 @@ For me, programming is more than writing code—it's about solving problems, cre
 
 <p align="center">
 <a href="mailto:mahfuz4223@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/mahfuz4223">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/mahfuz3325">
-<img src="https://skillicons.dev/icons?i=instagram" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
 
